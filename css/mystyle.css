@@ -1,0 +1,45 @@
+.header{
+    background-color: #00802b;   
+    overflow: hidden;
+   
+}
+
+.logo{
+    padding-left: 10px;
+}
+
+.nav {
+    float: right;
+    display: block;
+}
+
+.nav a{
+    text-align: center;
+    text-decoration: none;
+    color: whitesmoke;
+    padding-right: 10px;
+}
+
+.nav a:hover{
+    background-color: gray;
+}
+
+.footer-logo img{
+   width: 200px;
+   margin-bottom: 15px;
+   margin-left: 10px;
+   margin-top: 10px;
+}
+
+.footer{
+    background-color: #00802b;
+    bottom: 0;
+    width: 100%;
+    overflow: hidden;
+    position: fixed;
+}
+
+.conent{
+    text-align: center;
+    align-items: center;
+}
