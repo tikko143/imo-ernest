@@ -12,5 +12,10 @@
 <body>
     <?php include 'components/header.php' ?>
 <?php include 'components/footer.php' ?>
+<div class="content">
+            <h1>
+              MEow
+            </h1>
+        </div>
 </body>
 </html>
